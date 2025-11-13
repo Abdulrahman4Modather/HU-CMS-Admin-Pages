@@ -1,0 +1,72 @@
+[
+    {
+        "id": "E1",
+        "name": "Dr. Ahmed Mahmoud",
+        "email": "a.mahmoud@hu.edu",
+        "role": "Dean",
+        "departmentId": "D1"
+    },
+    {
+        "id": "E2",
+        "name": "Dr. Fatima Ali",
+        "email": "f.ali@hu.edu",
+        "role": "Dean",
+        "departmentId": "D3"
+    },
+    {
+        "id": "E3",
+        "name": "Prof. Youssef Hassan",
+        "email": "y.hassan@hu.edu",
+        "role": "Head of Department",
+        "departmentId": "D1"
+    },
+    {
+        "id": "E4",
+        "name": "Dr. Mona Said",
+        "email": "m.said@hu.edu",
+        "role": "Head of Department",
+        "departmentId": "D2"
+    },
+    {
+        "id": "E5",
+        "name": "Prof. Khalid Ibrahim",
+        "email": "k.ibrahim@hu.edu",
+        "role": "Professor",
+        "departmentId": "D3"
+    },
+    {
+        "id": "E6",
+        "name": "Nour Adel",
+        "email": "n.adel@hu.edu",
+        "role": "Vice Dean",
+        "departmentId": "D1"
+    },
+    {
+        "id": "E7",
+        "name": "Omar Sherif",
+        "email": "o.sherif@hu.edu",
+        "role": "Vice Dean",
+        "departmentId": "D2"
+    },
+    {
+        "id": "E8",
+        "name": "Laila Fathy",
+        "email": "l.fathy@hu.edu",
+        "role": "Vice Dean",
+        "departmentId": "D3"
+    },
+    {
+        "id": "E9",
+        "name": "Sara Nabil",
+        "email": "sara.N@hu.edu",
+        "role": "Professor",
+        "departmentId": "D1"
+    },
+    {
+        "id": "E10",
+        "name": "Tamer Zaki",
+        "email": "t.zaki@hu.edu",
+        "role": "Professor",
+        "departmentId": "D2"
+    }
+]
